@@ -1,2 +1,2 @@
 # Practice
-Small coding exercise to keep my skills sharp.
+Small coding exercises to keep my skills sharp.
